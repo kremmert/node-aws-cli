@@ -1,2 +1,2 @@
 # node-aws-cli
-Node 8.12.0 with awscli and yarn
+Node 10.15.0 with awscli and yarn
